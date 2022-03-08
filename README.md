@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I studied Computer Science at [Brooklyn College](http://www.brooklyn.cuny.edu/) and graduted with a B.S. in 2019.
+- 🏫 I studied Computer Science at [Brooklyn College](http://www.brooklyn.cuny.edu/) and graduated with a B.S. in 2019.
 - 🔎 Currently in the process of landing my first role as a software engineer.
 - 💻 Check out my portfolio here.
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vnestor/)!
