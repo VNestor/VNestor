@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Victor Nestor. Welcome to my GitHub!
 
 <!--
 **VNestor/VNestor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏫 I studied Computer Science at [Brooklyn College](http://www.brooklyn.cuny.edu/) and graduted with a B.S. in 2019.
+- 🔎 Currently in the process of landing my first role as a software engineer.
+- 💻 Check out my portfolio here.
+- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vnestor/)!
