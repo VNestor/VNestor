@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🏫 I studied Computer Science at [Brooklyn College](http://www.brooklyn.cuny.edu/) and graduated with a B.S. in 2019.
 - 🔎 Currently in the process of landing my first role as a software engineer.
-- 💻 Check out my portfolio [here](https://www.linkedin.com/in/vnestor/).
+- 💻 Check out my portfolio [here](https://victornestor.com/).
 - 📚 Take a look at my blog [here](https://vnestor.github.io/personal-blog/).
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vnestor/)!
